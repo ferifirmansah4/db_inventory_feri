@@ -1,0 +1,13 @@
+INSERT INTO barang VALUES 
+('1','1','cocacola',5000,200),
+('2','2','fanta',7000,900),
+('3','3','starbuck',50000,10),
+('4','4','sprit',8000,90),
+('5','5','anggur merah',13000,70)
+
+INSERT INTO jenis VALUES 
+('1','minuman'),
+('2','minuman'),
+('3','minuman'),
+('4','minuman'),
+('5','minuman')
